@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/techteam/!svn/ver/16/trunk/robot/src/nl/totan/sensors
+END
+AccelCalibration.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/techteam/!svn/ver/16/trunk/robot/src/nl/totan/sensors/AccelCalibration.java
+END
+L3G4200D.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/techteam/!svn/ver/16/trunk/robot/src/nl/totan/sensors/L3G4200D.java
+END
+AccelerationData.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/techteam/!svn/ver/16/trunk/robot/src/nl/totan/sensors/AccelerationData.java
+END
+RateData.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/techteam/!svn/ver/16/trunk/robot/src/nl/totan/sensors/RateData.java
+END
+TiltData.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/techteam/!svn/ver/16/trunk/robot/src/nl/totan/sensors/TiltData.java
+END
+TemperatureData.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/techteam/!svn/ver/16/trunk/robot/src/nl/totan/sensors/TemperatureData.java
+END
+Accelerometer.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/techteam/!svn/ver/16/trunk/robot/src/nl/totan/sensors/Accelerometer.java
+END
+MMA7455L.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/techteam/!svn/ver/16/trunk/robot/src/nl/totan/sensors/MMA7455L.java
+END

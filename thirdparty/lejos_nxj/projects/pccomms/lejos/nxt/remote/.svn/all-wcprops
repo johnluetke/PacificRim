@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pccomms/lejos/nxt/remote
+END
+InputValues.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pccomms/lejos/nxt/remote/InputValues.java
+END
+AsciizCodec.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pccomms/lejos/nxt/remote/AsciizCodec.java
+END
+ErrorMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pccomms/lejos/nxt/remote/ErrorMessages.java
+END
+OutputState.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pccomms/lejos/nxt/remote/OutputState.java
+END
+RemoteMotorPort.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pccomms/lejos/nxt/remote/RemoteMotorPort.java
+END
+RemoteBattery.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pccomms/lejos/nxt/remote/RemoteBattery.java
+END
+FirmwareInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pccomms/lejos/nxt/remote/FirmwareInfo.java
+END
+NXTCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pccomms/lejos/nxt/remote/NXTCommand.java
+END
+DeviceInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pccomms/lejos/nxt/remote/DeviceInfo.java
+END
+FileInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pccomms/lejos/nxt/remote/FileInfo.java
+END
+NXTProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pccomms/lejos/nxt/remote/NXTProtocol.java
+END
+RemoteMotor.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pccomms/lejos/nxt/remote/RemoteMotor.java
+END
+NXTCommRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pccomms/lejos/nxt/remote/NXTCommRequest.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pccomms/lejos/nxt/remote/package.html
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/java/lang/annotation
+END
+Target.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/java/lang/annotation/Target.java
+END
+Documented.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/java/lang/annotation/Documented.java
+END
+Retention.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/java/lang/annotation/Retention.java
+END
+RetentionPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/java/lang/annotation/RetentionPolicy.java
+END
+Annotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/java/lang/annotation/Annotation.java
+END
+ElementType.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/java/lang/annotation/ElementType.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/java/lang/annotation/package.html
+END

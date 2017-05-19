@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pccomms/lejos/pc/comm
+END
+NXTCommUSB.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pccomms/lejos/pc/comm/NXTCommUSB.java
+END
+FlashWrite.bin
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pccomms/lejos/pc/comm/FlashWrite.bin
+END
+BlueZException.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pccomms/lejos/pc/comm/BlueZException.java
+END
+NXTCommException.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pccomms/lejos/pc/comm/NXTCommException.java
+END
+RemoteFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pccomms/lejos/pc/comm/RemoteFrame.java
+END
+NXTCommLibnxt.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pccomms/lejos/pc/comm/NXTCommLibnxt.java
+END
+FlashWrite.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pccomms/lejos/pc/comm/FlashWrite.java
+END
+NXTCommBluecove.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pccomms/lejos/pc/comm/NXTCommBluecove.java
+END
+NXTSamba.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pccomms/lejos/pc/comm/NXTSamba.java
+END
+NXTCommFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pccomms/lejos/pc/comm/NXTCommFactory.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pccomms/lejos/pc/comm/package.html
+END
+NXTCommInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pccomms/lejos/pc/comm/NXTCommInputStream.java
+END
+NXTCommLoggable.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pccomms/lejos/pc/comm/NXTCommLoggable.java
+END
+NXTCommOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pccomms/lejos/pc/comm/NXTCommOutputStream.java
+END
+NXTCommandConnector.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pccomms/lejos/pc/comm/NXTCommandConnector.java
+END
+NXTConnector.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pccomms/lejos/pc/comm/NXTConnector.java
+END
+NXTConnectionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pccomms/lejos/pc/comm/NXTConnectionManager.java
+END
+NXTComm.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pccomms/lejos/pc/comm/NXTComm.java
+END
+NXTInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pccomms/lejos/pc/comm/NXTInfo.java
+END
+NXTCommBluez.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pccomms/lejos/pc/comm/NXTCommBluez.java
+END
+SystemContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pccomms/lejos/pc/comm/SystemContext.java
+END
+NXTCommFantom.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pccomms/lejos/pc/comm/NXTCommFantom.java
+END
+NXTConnectionState.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pccomms/lejos/pc/comm/NXTConnectionState.java
+END
+MCLPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pccomms/lejos/pc/comm/MCLPanel.java
+END
+MapPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pccomms/lejos/pc/comm/MapPanel.java
+END
+NXTCommLogListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pccomms/lejos/pc/comm/NXTCommLogListener.java
+END

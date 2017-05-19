@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/unix
+END
+sensors.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/unix/sensors.h
+END
+systime.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/unix/systime.h
+END
+verbose.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/unix/verbose.c
+END
+dump.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/unix/dump.c
+END
+nativeemul.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/unix/nativeemul.c
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/unix/build.xml
+END
+platform_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/unix/platform_config.h
+END
+load.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/unix/load.c
+END
+traceemul.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/unix/traceemul.c
+END
+load.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/unix/load.h
+END
+opcodeinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/unix/opcodeinfo.c
+END
+tvmemul.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/unix/tvmemul.c
+END
+dump_config.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/unix/dump_config.c
+END
+sensors.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/unix/sensors.c
+END
+platform_hooks.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/unix/platform_hooks.h
+END

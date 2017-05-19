@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/javavm
+END
+op_objects.hc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/javavm/op_objects.hc
+END
+opcodes.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/javavm/opcodes.h
+END
+specialclasses.db
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/javavm/specialclasses.db
+END
+classes.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/javavm/classes.h
+END
+specialclasses.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/javavm/specialclasses.h
+END
+trace.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/javavm/trace.h
+END
+limits.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/javavm/limits.h
+END
+poll.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/javavm/poll.c
+END
+op_arrays.hc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/javavm/op_arrays.hc
+END
+op_methods.hc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/javavm/op_methods.hc
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/javavm/types.h
+END
+stack.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/javavm/stack.h
+END
+poll.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/javavm/poll.h
+END
+op_skip.hc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/javavm/op_skip.hc
+END
+op_conversions.hc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/javavm/op_conversions.hc
+END
+op_logical.hc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/javavm/op_logical.hc
+END
+constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/javavm/constants.h
+END
+language.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/javavm/language.c
+END
+op_locals.hc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/javavm/op_locals.hc
+END
+magic.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/javavm/magic.h
+END
+debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/javavm/debug.c
+END
+configure.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/javavm/configure.h
+END
+op_control.hc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/javavm/op_control.hc
+END
+language.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/javavm/language.h
+END
+specialsignatures.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/javavm/specialsignatures.h
+END
+threads.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/javavm/threads.c
+END
+debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/javavm/debug.h
+END
+threads.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/javavm/threads.h
+END
+op_arithmetic.hc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/javavm/op_arithmetic.hc
+END
+interpreter.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/javavm/interpreter.c
+END
+interpreter.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/javavm/interpreter.h
+END
+memory.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/javavm/memory.c
+END
+op_unused.hc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/javavm/op_unused.hc
+END
+op_stack.hc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/javavm/op_stack.hc
+END
+fields.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/javavm/fields.h
+END
+memory.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/javavm/memory.h
+END
+exceptions.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/javavm/exceptions.c
+END
+exceptions.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/javavm/exceptions.h
+END
+op_other.hc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/javavm/op_other.hc
+END
+specialsignatures.db
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/javavm/specialsignatures.db
+END
+gc.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/javavm/gc.c
+END

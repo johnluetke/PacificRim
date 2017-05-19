@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/javax/bluetooth
+END
+BluetoothStateException.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/javax/bluetooth/BluetoothStateException.java
+END
+DeviceClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/javax/bluetooth/DeviceClass.java
+END
+DiscoveryAgent.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/javax/bluetooth/DiscoveryAgent.java
+END
+LocalDevice.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/javax/bluetooth/LocalDevice.java
+END
+RemoteDevice.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/javax/bluetooth/RemoteDevice.java
+END
+DiscoveryListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/javax/bluetooth/DiscoveryListener.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/javax/bluetooth/package.html
+END

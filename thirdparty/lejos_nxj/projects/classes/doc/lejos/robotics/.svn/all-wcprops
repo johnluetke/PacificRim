@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/robotics
+END
+Color.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/robotics/Color.html
+END
+RotatingRangeScanner.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/robotics/RotatingRangeScanner.html
+END
+Encoder.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/robotics/Encoder.html
+END
+Touch.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/robotics/Touch.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/robotics/package-frame.html
+END
+RangeFinder.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/robotics/RangeFinder.html
+END
+RangeReading.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/robotics/RangeReading.html
+END
+FixedRangeScanner.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/robotics/FixedRangeScanner.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/robotics/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/robotics/package-tree.html
+END
+Clock.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/robotics/Clock.html
+END
+BaseMotor.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/robotics/BaseMotor.html
+END
+Tachometer.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/robotics/Tachometer.html
+END
+RegulatedMotor.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/robotics/RegulatedMotor.html
+END
+EncoderMotor.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/robotics/EncoderMotor.html
+END
+LightDetector.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/robotics/LightDetector.html
+END
+RegulatedMotorListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/robotics/RegulatedMotorListener.html
+END
+RangeScanner.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/robotics/RangeScanner.html
+END
+DCMotor.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/robotics/DCMotor.html
+END
+DirectionFinder.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/robotics/DirectionFinder.html
+END
+ColorDetector.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/robotics/ColorDetector.html
+END
+RangeReadings.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/robotics/RangeReadings.html
+END
+Gyroscope.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/robotics/Gyroscope.html
+END
+Accelerometer.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/robotics/Accelerometer.html
+END
+LampLightDetector.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/robotics/LampLightDetector.html
+END

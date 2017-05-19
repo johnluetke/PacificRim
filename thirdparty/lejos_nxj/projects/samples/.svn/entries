@@ -1,0 +1,478 @@
+10
+
+dir
+26
+https://jluetke@svn.johnluetke.net/techteam/trunk/thirdparty/lejos_nxj/projects/samples
+https://jluetke@svn.johnluetke.net/techteam
+
+
+
+2013-07-25T17:16:05.423543Z
+3
+jluetke
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7db4f372-05b4-4144-949c-eb977d7ea30f
+
+GyroTest
+dir
+
+RCXTempTest
+dir
+
+LatteboxTest
+dir
+
+.project
+file
+
+
+
+
+2013-09-03T04:37:20.000000Z
+648d59c4d4af937c04fc20e49bba15cc
+2013-07-25T17:16:05.423543Z
+3
+jluetke
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+395
+
+KalmanTest2
+dir
+
+RemoteNXTTest
+dir
+
+RCXMuxTest
+dir
+
+RCXMMTest
+dir
+
+MonitorTest
+dir
+
+MotorTester
+dir
+
+SocketTest
+dir
+
+RCXRemoteMotor
+dir
+
+SoundSample
+dir
+
+PathFinding
+dir
+
+USBReceive
+dir
+
+NXTLineLeaderTest
+dir
+
+build.xml
+file
+
+
+
+
+2013-09-03T04:37:20.000000Z
+773528bed1f5981def4e1deeae569ce5
+2013-07-25T17:16:05.423543Z
+3
+jluetke
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+625
+
+SpeedTest
+dir
+
+samplebuild.xml
+file
+
+
+
+
+2013-09-03T04:37:20.000000Z
+ada94b4401e1da0525740705ed167ce5
+2013-07-25T17:16:05.423543Z
+3
+jluetke
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5115
+
+.classpath
+file
+
+
+
+
+2013-09-03T04:37:20.000000Z
+45d22744ea469afa2ddd6f96b65d882b
+2013-07-25T17:16:05.423543Z
+3
+jluetke
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5971
+
+RCXEmulator
+dir
+
+DSwitchTest
+dir
+
+Tune
+dir
+
+TiltTest
+dir
+
+BumpNavigator
+dir
+
+BTConnectTest
+dir
+
+I2CDevices
+dir
+
+nbproject
+dir
+
+RTCTest
+dir
+
+NXTServoTest
+dir
+
+SteerNavDemo
+dir
+
+IRTransmit
+dir
+
+Sniffer
+dir
+
+NXTMMXSample
+dir
+
+TimeTest
+dir
+
+Listen
+dir
+
+LCDUI
+dir
+
+RCXPortTest
+dir
+
+BlueStats
+dir
+
+MemoryTest
+dir
+
+ColorSensorTest
+dir
+
+View
+dir
+
+RCPilot
+dir
+
+SignalTest
+dir
+
+FileTest
+dir
+
+BTGPS
+dir
+
+BumperCar
+dir
+
+NXTConnectTest
+dir
+
+RFIDTest
+dir
+
+CommandLine
+dir
+
+DistanceTest
+dir
+
+PilotParams
+dir
+
+LnrActuatorTest
+dir
+
+RCXLLCMonitor
+dir
+
+DLTest
+dir
+
+ObjectDetect
+dir
+
+PerformanceTest
+dir
+
+LineFollower
+dir
+
+SensorMuxTest
+dir
+
+NXTLCPRespond
+dir
+
+KalmanTest
+dir
+
+GPSInfo
+dir
+
+CompassTest
+dir
+
+PFTest
+dir
+
+manifest.mf
+file
+
+
+
+
+2013-09-03T04:37:20.000000Z
+1a85ea4420d859b3aab3af09fc398382
+2013-07-25T17:16:05.423543Z
+3
+jluetke
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+85
+
+BTReceive
+dir
+
+RCXRemote
+dir
+
+RCNavigator
+dir
+
+WaypointNav
+dir
+
+PFLinkTest
+dir
+
+EchoNavigator
+dir
+
+NXTCamTest
+dir
+
+JSR256Test
+dir
+
+ExceptionTest
+dir
+
+samples.properties
+file
+
+
+
+
+2013-09-03T04:37:20.000000Z
+03bdd82c5c848cdf6eb9ba502c724f66
+2013-07-25T17:16:05.423543Z
+3
+jluetke
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+50
+
+GraphicsSample
+dir
+
+MatrixTest
+dir
+
+ColorDetector
+dir
+
+Subsumption1
+dir
+
+FusorBumper
+dir
+
+Subsumption2
+dir
+
+Homer
+dir
+
+HelloWorld
+dir
+
+SonicTest
+dir
+
+PFMateTest
+dir
+
+NXTReceive
+dir
+
+SegwayPilotDemo
+dir
+
+PilotTester
+dir
+

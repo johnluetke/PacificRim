@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/jtools/js/common
+END
+AbstractTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/jtools/js/common/AbstractTool.java
+END
+NullToolProgressMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/jtools/js/common/NullToolProgressMonitor.java
+END
+ToolProgressMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/jtools/js/common/ToolProgressMonitor.java
+END
+ToolException.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/jtools/js/common/ToolException.java
+END

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="GipsyDanger" basedir="." default="build">
+
+	<property environment="env" />
+
+	<property name="build.dir" location="${basedir}/build/" />
+	<property name="classes.dir" location="${build.dir}/classes/" />
+	<property name="src.dir" location="${basedir}/src/" />
+
+	<path id="lejos.nxt">
+		<fileset dir="${env.NXJ_HOME}/lib/nxt">
+			<include name="**/*.jar" />
+		</fileset>
+	</path>
+
+	<target name="build" depends="clean, compile">
+		<exec executable="cmd.exe" dir="${build.dir}">
+			<arg value="/c" />
+			<arg value="${env.NXJ_HOME}/bin/nxjlink.bat" />
+			<arg value="-v"/>
+			<arg value="-o${ant.project.name}.nxj"/>
+			<!-- <arg value="-od ${ant.project.name}.nxj.debug"/> -->
+			<arg value="pacificrim.gipsydanger.GipsyDanger"/>			
+		</exec>
+	</target>
+	
+	<target name="clean">
+		<delete dir="${build.dir}" />
+		<mkdir dir="${build.dir}"/>
+		<mkdir dir="${classes.dir}"/>
+	</target>
+	
+	<target name="compile" description="compile java files">
+		<javac srcdir="${src.dir}" destdir="${classes.dir}" debug="true" includeantruntime="false" verbose="false">
+			<bootclasspath refid="lejos.nxt" />
+    		<compilerarg value="-extdirs" />
+    		<compilerarg value="" />
+		</javac>
+	</target>
+	
+</project>

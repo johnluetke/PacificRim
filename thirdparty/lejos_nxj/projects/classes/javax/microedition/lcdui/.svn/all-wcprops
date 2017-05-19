@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/javax/microedition/lcdui
+END
+Graphics.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/javax/microedition/lcdui/Graphics.java
+END
+ItemCommandListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/javax/microedition/lcdui/ItemCommandListener.java
+END
+Form.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/javax/microedition/lcdui/Form.java
+END
+ItemStateListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/javax/microedition/lcdui/ItemStateListener.java
+END
+Display.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/javax/microedition/lcdui/Display.java
+END
+Font.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/javax/microedition/lcdui/Font.java
+END
+Alert.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/javax/microedition/lcdui/Alert.java
+END
+ChoiceGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/javax/microedition/lcdui/ChoiceGroup.java
+END
+List.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/javax/microedition/lcdui/List.java
+END
+Spacer.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/javax/microedition/lcdui/Spacer.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/javax/microedition/lcdui/package.html
+END
+Command.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/javax/microedition/lcdui/Command.java
+END
+Screen.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/javax/microedition/lcdui/Screen.java
+END
+Ticker.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/javax/microedition/lcdui/Ticker.java
+END
+Image.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/javax/microedition/lcdui/Image.java
+END
+CommandListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/javax/microedition/lcdui/CommandListener.java
+END
+StringItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/javax/microedition/lcdui/StringItem.java
+END
+TextField.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/javax/microedition/lcdui/TextField.java
+END
+Gauge.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/javax/microedition/lcdui/Gauge.java
+END
+Displayable.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/javax/microedition/lcdui/Displayable.java
+END
+Choice.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/javax/microedition/lcdui/Choice.java
+END
+TextBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/javax/microedition/lcdui/TextBox.java
+END
+Item.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/javax/microedition/lcdui/Item.java
+END

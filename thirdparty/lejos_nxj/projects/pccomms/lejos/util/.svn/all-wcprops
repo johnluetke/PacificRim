@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pccomms/lejos/util
+END
+Matrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pccomms/lejos/util/Matrix.java
+END
+KalmanFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pccomms/lejos/util/KalmanFilter.java
+END
+PilotProps.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pccomms/lejos/util/PilotProps.java
+END
+Stopwatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pccomms/lejos/util/Stopwatch.java
+END
+LUDecomposition.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pccomms/lejos/util/LUDecomposition.java
+END
+Delay.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pccomms/lejos/util/Delay.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pccomms/lejos/util/package.html
+END

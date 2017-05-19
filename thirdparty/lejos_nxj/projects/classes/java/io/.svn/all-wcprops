@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/java/io
+END
+ByteArrayOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/java/io/ByteArrayOutputStream.java
+END
+Reader.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/java/io/Reader.java
+END
+StringWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/java/io/StringWriter.java
+END
+DataInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/java/io/DataInputStream.java
+END
+Serializable.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/java/io/Serializable.java
+END
+DataOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/java/io/DataOutputStream.java
+END
+PrintStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/java/io/PrintStream.java
+END
+OutputStreamWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/java/io/OutputStreamWriter.java
+END
+FileNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/java/io/FileNotFoundException.java
+END
+FileInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/java/io/FileInputStream.java
+END
+InputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/java/io/InputStream.java
+END
+FileOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/java/io/FileOutputStream.java
+END
+OutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/java/io/OutputStream.java
+END
+Writer.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/java/io/Writer.java
+END
+BufferedInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/java/io/BufferedInputStream.java
+END
+UnsupportedEncodingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/java/io/UnsupportedEncodingException.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/java/io/package.html
+END
+BufferedOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/java/io/BufferedOutputStream.java
+END
+BufferedWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/java/io/BufferedWriter.java
+END
+File.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/java/io/File.java
+END
+FilterInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/java/io/FilterInputStream.java
+END
+FilterOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/java/io/FilterOutputStream.java
+END
+IOException.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/java/io/IOException.java
+END
+EOFException.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/java/io/EOFException.java
+END
+DataInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/java/io/DataInput.java
+END
+DataOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/java/io/DataOutput.java
+END
+ByteArrayInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/java/io/ByteArrayInputStream.java
+END
+InputStreamReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/java/io/InputStreamReader.java
+END

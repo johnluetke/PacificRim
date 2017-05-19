@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/jtools/js/tinyvm
+END
+SpecialSignatureConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/jtools/js/tinyvm/SpecialSignatureConstants.java
+END
+specialclasses.db
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/jtools/js/tinyvm/specialclasses.db
+END
+DebugOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/jtools/js/tinyvm/DebugOptions.java
+END
+SpecialClassConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/jtools/js/tinyvm/SpecialClassConstants.java
+END
+ClassRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/jtools/js/tinyvm/ClassRecord.java
+END
+CodeUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/jtools/js/tinyvm/CodeUtilities.java
+END
+OpCodeConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/jtools/js/tinyvm/OpCodeConstants.java
+END
+SpecialConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/jtools/js/tinyvm/SpecialConstants.java
+END
+EntryClassIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/jtools/js/tinyvm/EntryClassIndex.java
+END
+DebugData.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/jtools/js/tinyvm/DebugData.java
+END
+BinaryReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/jtools/js/tinyvm/BinaryReport.java
+END
+ClassPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/jtools/js/tinyvm/ClassPath.java
+END
+TinyVMConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/jtools/js/tinyvm/TinyVMConstants.java
+END
+Binary.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/jtools/js/tinyvm/Binary.java
+END
+ConstantValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/jtools/js/tinyvm/ConstantValue.java
+END
+RecordTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/jtools/js/tinyvm/RecordTable.java
+END
+TinyVMType.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/jtools/js/tinyvm/TinyVMType.java
+END
+ConstantRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/jtools/js/tinyvm/ConstantRecord.java
+END
+IClassPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/jtools/js/tinyvm/IClassPath.java
+END
+PrimitiveClassRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/jtools/js/tinyvm/PrimitiveClassRecord.java
+END
+InterfaceMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/jtools/js/tinyvm/InterfaceMap.java
+END
+RunTimeOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/jtools/js/tinyvm/RunTimeOptions.java
+END
+Signature.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/jtools/js/tinyvm/Signature.java
+END
+WritableData.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/jtools/js/tinyvm/WritableData.java
+END
+CodeSequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/jtools/js/tinyvm/CodeSequence.java
+END
+TinyVMException.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/jtools/js/tinyvm/TinyVMException.java
+END
+WritableDataWithOffset.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/jtools/js/tinyvm/WritableDataWithOffset.java
+END
+InstanceFieldRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/jtools/js/tinyvm/InstanceFieldRecord.java
+END
+MethodRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/jtools/js/tinyvm/MethodRecord.java
+END
+StaticValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/jtools/js/tinyvm/StaticValue.java
+END
+TinyVMTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/jtools/js/tinyvm/TinyVMTool.java
+END
+OpCodeInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/jtools/js/tinyvm/OpCodeInfo.java
+END
+TinyVM.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/jtools/js/tinyvm/TinyVM.java
+END
+specialsignatures.db
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/jtools/js/tinyvm/specialsignatures.db
+END
+MasterRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/jtools/js/tinyvm/MasterRecord.java
+END
+StaticFieldRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/jtools/js/tinyvm/StaticFieldRecord.java
+END
+ExceptionRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/jtools/js/tinyvm/ExceptionRecord.java
+END

@@ -1,0 +1,341 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/addon
+END
+LMotor.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/addon/LMotor.html
+END
+NXTMMXMotor.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/addon/NXTMMXMotor.html
+END
+PSPNXController.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/addon/PSPNXController.html
+END
+RCXMotor.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/addon/RCXMotor.html
+END
+NXTe.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/addon/NXTe.html
+END
+AngleSensor.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/addon/AngleSensor.html
+END
+IRSeekerV2.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/addon/IRSeekerV2.html
+END
+LSC.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/addon/LSC.html
+END
+LDCMotor.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/addon/LDCMotor.html
+END
+NXTLineLeader.LineColor.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/addon/NXTLineLeader.LineColor.html
+END
+EOPD.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/addon/EOPD.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/addon/package-tree.html
+END
+NXTCam.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/addon/NXTCam.html
+END
+PFMotorPort.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/addon/PFMotorPort.html
+END
+NXTMMX.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/addon/NXTMMX.html
+END
+RCXRemoteMotorPort.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/addon/RCXRemoteMotorPort.html
+END
+CompassSensor.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/addon/CompassSensor.html
+END
+SensorMux.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/addon/SensorMux.html
+END
+DSwitch.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/addon/DSwitch.html
+END
+CruizcoreGyro.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/addon/CruizcoreGyro.html
+END
+RCXRotationSensor.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/addon/RCXRotationSensor.html
+END
+RCXRotationSensor.Reader.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/addon/RCXRotationSensor.Reader.html
+END
+RCXMotorMultiplexer.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/addon/RCXMotorMultiplexer.html
+END
+GyroDirectionFinder.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/addon/GyroDirectionFinder.html
+END
+GyroSensor.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/addon/GyroSensor.html
+END
+LServo.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/addon/LServo.html
+END
+MServo.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/addon/MServo.html
+END
+TouchMUX.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/addon/TouchMUX.html
+END
+PFMate.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/addon/PFMate.html
+END
+LinearActuator.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/addon/LinearActuator.html
+END
+RealTimeClock.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/addon/RealTimeClock.html
+END
+RFIDSensor.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/addon/RFIDSensor.html
+END
+RCXLightSensor.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/addon/RCXLightSensor.html
+END
+MMXRegulatedMotor.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/addon/MMXRegulatedMotor.html
+END
+RCXSensorMultiplexer.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/addon/RCXSensorMultiplexer.html
+END
+MSC.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/addon/MSC.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/addon/package-frame.html
+END
+GPSSensor.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/addon/GPSSensor.html
+END
+PFLink.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/addon/PFLink.html
+END
+RCXPlexedMotorPort.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/addon/RCXPlexedMotorPort.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/addon/package-summary.html
+END
+IRLink.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/addon/IRLink.html
+END
+SensorSelectorException.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/addon/SensorSelectorException.html
+END
+AccelHTSensor.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/addon/AccelHTSensor.html
+END
+PFMateMotor.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/addon/PFMateMotor.html
+END
+NXTLineLeader.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/addon/NXTLineLeader.html
+END
+OpticalDistanceSensor.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/addon/OpticalDistanceSensor.html
+END
+RCXTemperatureSensor.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/addon/RCXTemperatureSensor.html
+END
+ColorSensorHT.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/addon/ColorSensorHT.html
+END
+IRSeekerV2.Mode.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/addon/IRSeekerV2.Mode.html
+END
+IRTransmitter.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/addon/IRTransmitter.html
+END
+IRSeeker.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/addon/IRSeeker.html
+END
+AccelMindSensor.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/addon/AccelMindSensor.html
+END
+SensorSelector.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/addon/SensorSelector.html
+END
+RCXLink.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/addon/RCXLink.html
+END
+NXTLineLeader.Command.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/addon/NXTLineLeader.Command.html
+END

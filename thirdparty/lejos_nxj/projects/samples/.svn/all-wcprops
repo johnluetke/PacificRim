@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/samples
+END
+samples.properties
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/samples/samples.properties
+END
+samplebuild.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/samples/samplebuild.xml
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/samples/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/samples/.project
+END
+manifest.mf
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/samples/manifest.mf
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/samples/build.xml
+END

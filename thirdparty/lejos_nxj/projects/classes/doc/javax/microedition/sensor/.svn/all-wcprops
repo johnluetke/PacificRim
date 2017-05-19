@@ -1,0 +1,317 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/sensor
+END
+NXTActiveCondition.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/sensor/NXTActiveCondition.html
+END
+LightChannelInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/sensor/LightChannelInfo.html
+END
+LightSensorInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/sensor/LightSensorInfo.html
+END
+ColorRGBChannelInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/sensor/ColorRGBChannelInfo.html
+END
+BatterySensorInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/sensor/BatterySensorInfo.html
+END
+TiltChannelInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/sensor/TiltChannelInfo.html
+END
+LimitCondition.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/sensor/LimitCondition.html
+END
+Condition.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/sensor/Condition.html
+END
+UltrasonicChannelInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/sensor/UltrasonicChannelInfo.html
+END
+TouchSensorInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/sensor/TouchSensorInfo.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/sensor/package-tree.html
+END
+UltrasonicSensorInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/sensor/UltrasonicSensorInfo.html
+END
+HiTechnicCompassSensorInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/sensor/HiTechnicCompassSensorInfo.html
+END
+RCXLightSensorInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/sensor/RCXLightSensorInfo.html
+END
+OperatorTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/sensor/OperatorTest.html
+END
+SensorURL.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/sensor/SensorURL.html
+END
+SoundChannelInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/sensor/SoundChannelInfo.html
+END
+AccelerationChannelInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/sensor/AccelerationChannelInfo.html
+END
+TemperatureChannelInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/sensor/TemperatureChannelInfo.html
+END
+HiTechnicColorSensorInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/sensor/HiTechnicColorSensorInfo.html
+END
+ColorIndexChannelInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/sensor/ColorIndexChannelInfo.html
+END
+ObjectCondition.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/sensor/ObjectCondition.html
+END
+NXTChannelInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/sensor/NXTChannelInfo.html
+END
+Unit.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/sensor/Unit.html
+END
+SensorListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/sensor/SensorListener.html
+END
+DataListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/sensor/DataListener.html
+END
+BatteryChannelInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/sensor/BatteryChannelInfo.html
+END
+NXTSensorInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/sensor/NXTSensorInfo.html
+END
+RCXTemperatureSensorInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/sensor/RCXTemperatureSensorInfo.html
+END
+ColorChannelInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/sensor/ColorChannelInfo.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/sensor/package-frame.html
+END
+NXTSensorConnection.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/sensor/NXTSensorConnection.html
+END
+NXTADSensorInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/sensor/NXTADSensorInfo.html
+END
+MindsensorsAccelerationSensorInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/sensor/MindsensorsAccelerationSensorInfo.html
+END
+ChannelInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/sensor/ChannelInfo.html
+END
+SensorInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/sensor/SensorInfo.html
+END
+GyroChannelInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/sensor/GyroChannelInfo.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/sensor/package-summary.html
+END
+TouchChannelInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/sensor/TouchChannelInfo.html
+END
+SensorConnection.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/sensor/SensorConnection.html
+END
+ConditionListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/sensor/ConditionListener.html
+END
+SoundSensorInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/sensor/SoundSensorInfo.html
+END
+NXTActiveData.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/sensor/NXTActiveData.html
+END
+MeasurementRange.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/sensor/MeasurementRange.html
+END
+NXTChannel.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/sensor/NXTChannel.html
+END
+RangeCondition.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/sensor/RangeCondition.html
+END
+NXTData.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/sensor/NXTData.html
+END
+HeadingChannelInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/sensor/HeadingChannelInfo.html
+END
+SensorManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/sensor/SensorManager.html
+END
+HiTechnicGyroSensorInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/sensor/HiTechnicGyroSensorInfo.html
+END
+Channel.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/sensor/Channel.html
+END
+Data.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/sensor/Data.html
+END

@@ -1,0 +1,365 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/nxt
+END
+interrupts.s
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/nxt/interrupts.s
+END
+data_abort.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/nxt/data_abort.c
+END
+nxt_lcd.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/nxt/nxt_lcd.h
+END
+printf.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/nxt/printf.c
+END
+Make.mak
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/nxt/Make.mak
+END
+twi.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/nxt/twi.c
+END
+display.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/nxt/display.c
+END
+vectors.s
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/nxt/vectors.s
+END
+byte_fifo.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/nxt/byte_fifo.c
+END
+twi.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/nxt/twi.h
+END
+display.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/nxt/display.h
+END
+lejos_nxt.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/nxt/lejos_nxt.h
+END
+byte_fifo.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/nxt/byte_fifo.h
+END
+nxt_motors.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/nxt/nxt_motors.c
+END
+i2c.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/nxt/i2c.c
+END
+platform_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/nxt/platform_config.h
+END
+mytypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/nxt/mytypes.h
+END
+nxt_motors.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/nxt/nxt_motors.h
+END
+i2c.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/nxt/i2c.h
+END
+init.s
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/nxt/init.s
+END
+flashprog.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/nxt/flashprog.c
+END
+native.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/nxt/native.c
+END
+sound.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/nxt/sound.c
+END
+udp.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/nxt/udp.c
+END
+systick.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/nxt/systick.c
+END
+environment.mak
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/nxt/environment.mak
+END
+java_binary.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/nxt/java_binary.h
+END
+flashprog.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/nxt/flashprog.h
+END
+targetdef.mak
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/nxt/targetdef.mak
+END
+at91sam7s256.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/nxt/at91sam7s256.h
+END
+sensors.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/nxt/sensors.c
+END
+aic.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/nxt/aic.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/nxt/Makefile
+END
+sound.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/nxt/sound.h
+END
+udp.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/nxt/udp.h
+END
+systick.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/nxt/systick.h
+END
+aic.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/nxt/aic.h
+END
+sensors.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/nxt/sensors.h
+END
+bt.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/nxt/bt.c
+END
+sam7.lds
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/nxt/sam7.lds
+END
+hs.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/nxt/hs.c
+END
+bt.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/nxt/bt.h
+END
+irq.s
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/nxt/irq.s
+END
+AT91SAM7.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/nxt/AT91SAM7.h
+END
+uart.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/nxt/uart.c
+END
+version.mak
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/nxt/version.mak
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/nxt/README
+END
+hs.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/nxt/hs.h
+END
+uart.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/nxt/uart.h
+END
+nxt_avr.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/nxt/nxt_avr.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/nxt/main.c
+END
+interrupts.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/nxt/interrupts.h
+END
+nxt_spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/nxt/nxt_spi.c
+END
+nxt_avr.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/nxt/nxt_avr.h
+END
+platform_hooks.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/nxt/platform_hooks.c
+END
+main.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/nxt/main.h
+END
+nxt_spi.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/nxt/nxt_spi.h
+END
+rconsole.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/nxt/rconsole.h
+END
+nxt_lcd.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/nxt/nxt_lcd.c
+END
+platform_hooks.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/src/nxtvm/platform/nxt/platform_hooks.h
+END

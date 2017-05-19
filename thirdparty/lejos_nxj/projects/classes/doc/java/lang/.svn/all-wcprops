@@ -1,0 +1,365 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/java/lang
+END
+StringBuilder.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/java/lang/StringBuilder.html
+END
+NoSuchFieldError.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/java/lang/NoSuchFieldError.html
+END
+ArrayIndexOutOfBoundsException.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/java/lang/ArrayIndexOutOfBoundsException.html
+END
+ThreadDeath.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/java/lang/ThreadDeath.html
+END
+Override.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/java/lang/Override.html
+END
+Boolean.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/java/lang/Boolean.html
+END
+NumberFormatException.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/java/lang/NumberFormatException.html
+END
+AssertionError.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/java/lang/AssertionError.html
+END
+System.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/java/lang/System.html
+END
+Cloneable.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/java/lang/Cloneable.html
+END
+VirtualMachineError.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/java/lang/VirtualMachineError.html
+END
+Iterable.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/java/lang/Iterable.html
+END
+NoClassDefFoundError.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/java/lang/NoClassDefFoundError.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/java/lang/package-tree.html
+END
+Number.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/java/lang/Number.html
+END
+IllegalStateException.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/java/lang/IllegalStateException.html
+END
+SuppressWarnings.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/java/lang/SuppressWarnings.html
+END
+Integer.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/java/lang/Integer.html
+END
+Exception.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/java/lang/Exception.html
+END
+OutOfMemoryError.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/java/lang/OutOfMemoryError.html
+END
+Long.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/java/lang/Long.html
+END
+Short.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/java/lang/Short.html
+END
+IllegalMonitorStateException.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/java/lang/IllegalMonitorStateException.html
+END
+Byte.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/java/lang/Byte.html
+END
+Float.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/java/lang/Float.html
+END
+Class.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/java/lang/Class.html
+END
+CharSequence.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/java/lang/CharSequence.html
+END
+ArithmeticException.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/java/lang/ArithmeticException.html
+END
+Double.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/java/lang/Double.html
+END
+ArrayStoreException.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/java/lang/ArrayStoreException.html
+END
+NoSuchMethodError.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/java/lang/NoSuchMethodError.html
+END
+NegativeArraySizeException.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/java/lang/NegativeArraySizeException.html
+END
+IndexOutOfBoundsException.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/java/lang/IndexOutOfBoundsException.html
+END
+Runtime.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/java/lang/Runtime.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/java/lang/package-frame.html
+END
+InterruptedException.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/java/lang/InterruptedException.html
+END
+InternalError.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/java/lang/InternalError.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/java/lang/package-summary.html
+END
+Throwable.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/java/lang/Throwable.html
+END
+UnsupportedOperationException.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/java/lang/UnsupportedOperationException.html
+END
+Error.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/java/lang/Error.html
+END
+Math.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/java/lang/Math.html
+END
+NullPointerException.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/java/lang/NullPointerException.html
+END
+IllegalArgumentException.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/java/lang/IllegalArgumentException.html
+END
+Character.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/java/lang/Character.html
+END
+ClassCastException.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/java/lang/ClassCastException.html
+END
+Deprecated.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/java/lang/Deprecated.html
+END
+StringBuffer.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/java/lang/StringBuffer.html
+END
+Void.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/java/lang/Void.html
+END
+ClassNotFoundException.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/java/lang/ClassNotFoundException.html
+END
+RuntimeException.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/java/lang/RuntimeException.html
+END
+StackOverflowError.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/java/lang/StackOverflowError.html
+END
+Enum.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/java/lang/Enum.html
+END
+StringIndexOutOfBoundsException.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/java/lang/StringIndexOutOfBoundsException.html
+END
+Comparable.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/java/lang/Comparable.html
+END
+String.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/java/lang/String.html
+END
+Runnable.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/java/lang/Runnable.html
+END
+Object.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/java/lang/Object.html
+END
+CloneNotSupportedException.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/java/lang/CloneNotSupportedException.html
+END
+Thread.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/java/lang/Thread.html
+END

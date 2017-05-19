@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pccomms/lejos/robotics/objectdetection
+END
+FeatureListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pccomms/lejos/robotics/objectdetection/FeatureListener.java
+END
+RangeFeatureDetector.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pccomms/lejos/robotics/objectdetection/RangeFeatureDetector.java
+END
+FeatureDetector.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pccomms/lejos/robotics/objectdetection/FeatureDetector.java
+END
+FeatureDetectorAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pccomms/lejos/robotics/objectdetection/FeatureDetectorAdapter.java
+END
+FusorDetector.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pccomms/lejos/robotics/objectdetection/FusorDetector.java
+END
+RangeFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pccomms/lejos/robotics/objectdetection/RangeFeature.java
+END
+TouchFeatureDetector.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pccomms/lejos/robotics/objectdetection/TouchFeatureDetector.java
+END
+Feature.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pccomms/lejos/robotics/objectdetection/Feature.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pccomms/lejos/robotics/objectdetection/package.html
+END

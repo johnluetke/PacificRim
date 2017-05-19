@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/nxt/comm
+END
+NXTCommConnector.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/nxt/comm/NXTCommConnector.java
+END
+LCPResponder.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/nxt/comm/LCPResponder.java
+END
+RS485Connection.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/nxt/comm/RS485Connection.java
+END
+NXTInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/nxt/comm/NXTInputStream.java
+END
+NXTCommDevice.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/nxt/comm/NXTCommDevice.java
+END
+Bluetooth.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/nxt/comm/Bluetooth.java
+END
+NXTOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/nxt/comm/NXTOutputStream.java
+END
+USBConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/nxt/comm/USBConnection.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/nxt/comm/package.html
+END
+LCP.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/nxt/comm/LCP.java
+END
+RConsole.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/nxt/comm/RConsole.java
+END
+RS485.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/nxt/comm/RS485.java
+END
+BTConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/nxt/comm/BTConnection.java
+END
+LCPBTResponder.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/nxt/comm/LCPBTResponder.java
+END
+USB.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/nxt/comm/USB.java
+END
+NXTConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/nxt/comm/NXTConnection.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pccomms
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pccomms/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pccomms/.project
+END
+copy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pccomms/copy.xml
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pccomms/pom.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pccomms/build.xml
+END

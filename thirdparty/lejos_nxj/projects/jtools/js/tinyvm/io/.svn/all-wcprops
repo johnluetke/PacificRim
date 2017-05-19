@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/jtools/js/tinyvm/io
+END
+ByteWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/jtools/js/tinyvm/io/ByteWriter.java
+END
+LEByteWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/jtools/js/tinyvm/io/LEByteWriter.java
+END
+IOUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/jtools/js/tinyvm/io/IOUtilities.java
+END
+BEByteWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/jtools/js/tinyvm/io/BEByteWriter.java
+END
+IByteWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/jtools/js/tinyvm/io/IByteWriter.java
+END

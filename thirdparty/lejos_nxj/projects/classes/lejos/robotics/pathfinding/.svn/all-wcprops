@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/robotics/pathfinding
+END
+FourWayGridMesh.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/robotics/pathfinding/FourWayGridMesh.java
+END
+DijkstraPathFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/robotics/pathfinding/DijkstraPathFinder.java
+END
+ShortestPathFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/robotics/pathfinding/ShortestPathFinder.java
+END
+PathFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/robotics/pathfinding/PathFinder.java
+END
+RandomSelfGeneratingNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/robotics/pathfinding/RandomSelfGeneratingNode.java
+END
+Node.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/robotics/pathfinding/Node.java
+END
+RandomPathFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/robotics/pathfinding/RandomPathFinder.java
+END
+AstarSearchAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/robotics/pathfinding/AstarSearchAlgorithm.java
+END
+NodePathFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/robotics/pathfinding/NodePathFinder.java
+END
+GridNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/robotics/pathfinding/GridNode.java
+END
+NavigationMesh.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/robotics/pathfinding/NavigationMesh.java
+END
+SearchAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/robotics/pathfinding/SearchAlgorithm.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/robotics/pathfinding/package.html
+END

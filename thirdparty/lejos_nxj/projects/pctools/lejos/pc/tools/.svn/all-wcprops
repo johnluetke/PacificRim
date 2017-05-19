@@ -1,0 +1,323 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pctools/lejos/pc/tools
+END
+ConsoleDebugDisplay.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pctools/lejos/pc/tools/ConsoleDebugDisplay.java
+END
+ToolsLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pctools/lejos/pc/tools/ToolsLogger.java
+END
+NXJControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pctools/lejos/pc/tools/NXJControl.java
+END
+Console.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pctools/lejos/pc/tools/Console.java
+END
+NXJImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pctools/lejos/pc/tools/NXJImage.java
+END
+CLIToolProgressMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pctools/lejos/pc/tools/CLIToolProgressMonitor.java
+END
+NXJUpload.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pctools/lejos/pc/tools/NXJUpload.java
+END
+NXJDebugTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pctools/lejos/pc/tools/NXJDebugTool.java
+END
+NXJLinkAndUpload.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pctools/lejos/pc/tools/NXJLinkAndUpload.java
+END
+NXJMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pctools/lejos/pc/tools/NXJMonitor.java
+END
+NXTConnectionModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pctools/lejos/pc/tools/NXTConnectionModel.java
+END
+NXJFlashUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pctools/lejos/pc/tools/NXJFlashUI.java
+END
+NXJLink.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pctools/lejos/pc/tools/NXJLink.java
+END
+NXJFlash.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pctools/lejos/pc/tools/NXJFlash.java
+END
+ExtendedFileModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pctools/lejos/pc/tools/ExtendedFileModel.java
+END
+Upload.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pctools/lejos/pc/tools/Upload.java
+END
+NXJImageMainPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pctools/lejos/pc/tools/NXJImageMainPanel.java
+END
+Gauge.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pctools/lejos/pc/tools/Gauge.java
+END
+NXJLinkAndUploadCommandLineParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pctools/lejos/pc/tools/NXJLinkAndUploadCommandLineParser.java
+END
+NXJImageConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pctools/lejos/pc/tools/NXJImageConverter.java
+END
+LabeledGauge.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pctools/lejos/pc/tools/LabeledGauge.java
+END
+NXJLinkCommandLineParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pctools/lejos/pc/tools/NXJLinkCommandLineParser.java
+END
+NXJFlashCommandLineParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pctools/lejos/pc/tools/NXJFlashCommandLineParser.java
+END
+NXJBrowser.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pctools/lejos/pc/tools/NXJBrowser.java
+END
+DataViewComms.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pctools/lejos/pc/tools/DataViewComms.java
+END
+FileDrop.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pctools/lejos/pc/tools/FileDrop.java
+END
+NXJConsoleViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pctools/lejos/pc/tools/NXJConsoleViewer.java
+END
+NXTNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pctools/lejos/pc/tools/NXTNotFoundException.java
+END
+ConsoleViewerCommandLineParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pctools/lejos/pc/tools/ConsoleViewerCommandLineParser.java
+END
+ToolsLogListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pctools/lejos/pc/tools/ToolsLogListener.java
+END
+ConsoleDebug.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pctools/lejos/pc/tools/ConsoleDebug.java
+END
+NXJSocketProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pctools/lejos/pc/tools/NXJSocketProxy.java
+END
+NXJDataViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pctools/lejos/pc/tools/NXJDataViewer.java
+END
+NXJImageCodePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pctools/lejos/pc/tools/NXJImageCodePanel.java
+END
+NXJImagePicturePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pctools/lejos/pc/tools/NXJImagePicturePanel.java
+END
+SocketProxyCommandLineParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pctools/lejos/pc/tools/SocketProxyCommandLineParser.java
+END
+NXJFlashUpdate.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pctools/lejos/pc/tools/NXJFlashUpdate.java
+END
+NXJConsole.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pctools/lejos/pc/tools/NXJConsole.java
+END
+ConsoleViewerUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pctools/lejos/pc/tools/ConsoleViewerUI.java
+END
+ToolStarter.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pctools/lejos/pc/tools/ToolStarter.java
+END
+NXJFlashG.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pctools/lejos/pc/tools/NXJFlashG.java
+END
+ConsoleViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pctools/lejos/pc/tools/ConsoleViewer.java
+END
+ConsoleCommandLineParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pctools/lejos/pc/tools/ConsoleCommandLineParser.java
+END
+NXJBrowserCommandLineParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pctools/lejos/pc/tools/NXJBrowserCommandLineParser.java
+END
+AbstractCommandLineParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pctools/lejos/pc/tools/AbstractCommandLineParser.java
+END
+NXJDebugToolCommandLineParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pctools/lejos/pc/tools/NXJDebugToolCommandLineParser.java
+END
+NXJUploadCommandLineParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pctools/lejos/pc/tools/NXJUploadCommandLineParser.java
+END
+SensorPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pctools/lejos/pc/tools/SensorPanel.java
+END
+DataViewerUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pctools/lejos/pc/tools/DataViewerUI.java
+END
+SocketProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pctools/lejos/pc/tools/SocketProxy.java
+END
+ConsoleViewerSwingUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pctools/lejos/pc/tools/ConsoleViewerSwingUI.java
+END
+DataViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pctools/lejos/pc/tools/DataViewer.java
+END
+ConsoleViewComms.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/pctools/lejos/pc/tools/ConsoleViewComms.java
+END

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/robotics/pathfinding
+END
+SearchAlgorithm.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/robotics/pathfinding/SearchAlgorithm.html
+END
+NavigationMesh.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/robotics/pathfinding/NavigationMesh.html
+END
+FourWayGridMesh.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/robotics/pathfinding/FourWayGridMesh.html
+END
+ShortestPathFinder.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/robotics/pathfinding/ShortestPathFinder.html
+END
+DijkstraPathFinder.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/robotics/pathfinding/DijkstraPathFinder.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/robotics/pathfinding/package-frame.html
+END
+PathFinder.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/robotics/pathfinding/PathFinder.html
+END
+RandomPathFinder.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/robotics/pathfinding/RandomPathFinder.html
+END
+Node.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/robotics/pathfinding/Node.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/robotics/pathfinding/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/robotics/pathfinding/package-tree.html
+END
+NodePathFinder.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/robotics/pathfinding/NodePathFinder.html
+END
+GridNode.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/robotics/pathfinding/GridNode.html
+END
+ShortestPathFinder.Node.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/robotics/pathfinding/ShortestPathFinder.Node.html
+END
+RandomSelfGeneratingNode.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/robotics/pathfinding/RandomSelfGeneratingNode.html
+END
+DijkstraPathFinder.Node.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/robotics/pathfinding/DijkstraPathFinder.Node.html
+END
+AstarSearchAlgorithm.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/robotics/pathfinding/AstarSearchAlgorithm.html
+END

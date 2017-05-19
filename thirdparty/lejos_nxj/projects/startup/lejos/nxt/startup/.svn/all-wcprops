@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/startup/lejos/nxt/startup
+END
+GraphicStartup.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/startup/lejos/nxt/startup/GraphicStartup.java
+END
+Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/startup/lejos/nxt/startup/Utils.java
+END
+GraphicMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/startup/lejos/nxt/startup/GraphicMenu.java
+END
+Config.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/startup/lejos/nxt/startup/Config.java
+END
+IconIndicator.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/startup/lejos/nxt/startup/IconIndicator.java
+END
+BatteryIndicator.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/startup/lejos/nxt/startup/BatteryIndicator.java
+END
+StartUpText.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/startup/lejos/nxt/startup/StartUpText.java
+END
+ActivityIndicator.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/startup/lejos/nxt/startup/ActivityIndicator.java
+END
+GraphicListMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/startup/lejos/nxt/startup/GraphicListMenu.java
+END

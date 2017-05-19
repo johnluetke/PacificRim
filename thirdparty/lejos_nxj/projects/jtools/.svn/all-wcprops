@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/jtools
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/jtools/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/jtools/.project
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/jtools/pom.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/jtools/build.xml
+END

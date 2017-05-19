@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/io
+END
+Connection.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/io/Connection.html
+END
+InputConnection.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/io/InputConnection.html
+END
+OutputConnection.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/io/OutputConnection.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/io/package-frame.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/io/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/io/package-tree.html
+END
+Connector.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/io/Connector.html
+END
+ConnectionNotFoundException.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/io/ConnectionNotFoundException.html
+END
+StreamConnection.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/io/StreamConnection.html
+END
+StreamConnectionNotifier.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/io/StreamConnectionNotifier.html
+END

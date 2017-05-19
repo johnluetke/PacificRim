@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/nxt
+END
+LCDOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/nxt/LCDOutputStream.java
+END
+Motor.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/nxt/Motor.java
+END
+LegacySensorPort.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/nxt/LegacySensorPort.java
+END
+MotorPort.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/nxt/MotorPort.java
+END
+SensorConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/nxt/SensorConstants.java
+END
+I2CSensor.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/nxt/I2CSensor.java
+END
+FlashError.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/nxt/FlashError.java
+END
+NXT.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/nxt/NXT.java
+END
+NXTEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/nxt/NXTEvent.java
+END
+SensorPort.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/nxt/SensorPort.java
+END
+ButtonListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/nxt/ButtonListener.java
+END
+I2CPort.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/nxt/I2CPort.java
+END
+SoundSensor.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/nxt/SoundSensor.java
+END
+VM.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/nxt/VM.java
+END
+ADSensorPort.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/nxt/ADSensorPort.java
+END
+TachoMotorPort.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/nxt/TachoMotorPort.java
+END
+NXTRegulatedMotor.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/nxt/NXTRegulatedMotor.java
+END
+Sound.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/nxt/Sound.java
+END
+Flash.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/nxt/Flash.java
+END
+Settings.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/nxt/Settings.java
+END
+LightSensor.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/nxt/LightSensor.java
+END
+BasicMotor.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/nxt/BasicMotor.java
+END
+LCD.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/nxt/LCD.java
+END
+SystemSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/nxt/SystemSettings.java
+END
+BasicMotorPort.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/nxt/BasicMotorPort.java
+END
+ListenerCaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/nxt/ListenerCaller.java
+END
+ColorSensor.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/nxt/ColorSensor.java
+END
+Battery.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/nxt/Battery.java
+END
+Button.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/nxt/Button.java
+END
+TouchSensor.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/nxt/TouchSensor.java
+END
+ListenerThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/nxt/ListenerThread.java
+END
+UltrasonicSensor.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/nxt/UltrasonicSensor.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/nxt/package.html
+END
+BasicSensorPort.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/nxt/BasicSensorPort.java
+END
+SensorPortListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/nxt/SensorPortListener.java
+END
+NXTMotor.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/nxt/NXTMotor.java
+END

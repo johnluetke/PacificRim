@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/location
+END
+LocationListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/location/LocationListener.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/location/package-frame.html
+END
+LocationProvider.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/location/LocationProvider.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/location/package-summary.html
+END
+LocationException.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/location/LocationException.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/location/package-tree.html
+END
+Landmark.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/location/Landmark.html
+END
+Orientation.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/location/Orientation.html
+END
+QualifiedCoordinates.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/location/QualifiedCoordinates.html
+END
+AddressInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/location/AddressInfo.html
+END
+Criteria.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/location/Criteria.html
+END
+Location.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/location/Location.html
+END
+LandmarkException.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/location/LandmarkException.html
+END
+ProximityListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/location/ProximityListener.html
+END
+Coordinates.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/javax/microedition/location/Coordinates.html
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/javax/microedition/io
+END
+Connection.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/javax/microedition/io/Connection.java
+END
+InputConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/javax/microedition/io/InputConnection.java
+END
+OutputConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/javax/microedition/io/OutputConnection.java
+END
+Connector.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/javax/microedition/io/Connector.java
+END
+ConnectionNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/javax/microedition/io/ConnectionNotFoundException.java
+END
+StreamConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/javax/microedition/io/StreamConnection.java
+END
+StreamConnectionNotifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/javax/microedition/io/StreamConnectionNotifier.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/javax/microedition/io/package.html
+END

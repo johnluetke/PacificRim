@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/robotics/navigation
+END
+ArcAlgorithms.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/robotics/navigation/ArcAlgorithms.java
+END
+Segway.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/robotics/navigation/Segway.java
+END
+PathController.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/robotics/navigation/PathController.java
+END
+ArcMoveController.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/robotics/navigation/ArcMoveController.java
+END
+DifferentialPilot.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/robotics/navigation/DifferentialPilot.java
+END
+NavPathController.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/robotics/navigation/NavPathController.java
+END
+Move.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/robotics/navigation/Move.java
+END
+Pose.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/robotics/navigation/Pose.java
+END
+SegwayPilot.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/robotics/navigation/SegwayPilot.java
+END
+WayPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/robotics/navigation/WayPoint.java
+END
+MoveController.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/robotics/navigation/MoveController.java
+END
+MoveListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/robotics/navigation/MoveListener.java
+END
+LegacyPilot.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/robotics/navigation/LegacyPilot.java
+END
+CompassPilot.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/robotics/navigation/CompassPilot.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/robotics/navigation/package.html
+END
+ArcRotateMoveController.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/robotics/navigation/ArcRotateMoveController.java
+END
+LegacyNavigator.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/robotics/navigation/LegacyNavigator.java
+END
+WayPointListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/robotics/navigation/WayPointListener.java
+END
+MoveProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/robotics/navigation/MoveProvider.java
+END
+SteeringPilot.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/robotics/navigation/SteeringPilot.java
+END
+RotateMoveController.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/robotics/navigation/RotateMoveController.java
+END
+DestinationUnreachableException.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/lejos/robotics/navigation/DestinationUnreachableException.java
+END

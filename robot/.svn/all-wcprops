@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/techteam/!svn/ver/26/trunk/robot
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/techteam/!svn/ver/13/trunk/robot/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/techteam/!svn/ver/13/trunk/robot/.project
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/techteam/!svn/ver/8/trunk/robot/build.xml
+END

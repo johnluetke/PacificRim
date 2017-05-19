@@ -1,0 +1,371 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt
+END
+SensorPort.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/SensorPort.html
+END
+ButtonListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/ButtonListener.html
+END
+SoundSensor.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/SoundSensor.html
+END
+VM.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/VM.html
+END
+I2CPort.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/I2CPort.html
+END
+ADSensorPort.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/ADSensorPort.html
+END
+TachoMotorPort.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/TachoMotorPort.html
+END
+VM.VMMethods.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/VM.VMMethods.html
+END
+VM.VMStackFrames.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/VM.VMStackFrames.html
+END
+NXTRegulatedMotor.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/NXTRegulatedMotor.html
+END
+Sound.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/Sound.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/package-tree.html
+END
+NXTRegulatedMotor.Regulator.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/NXTRegulatedMotor.Regulator.html
+END
+VM.VMThread.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/VM.VMThread.html
+END
+Flash.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/Flash.html
+END
+VM.VMConstants.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/VM.VMConstants.html
+END
+Settings.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/Settings.html
+END
+SensorPort.StandardReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/SensorPort.StandardReader.html
+END
+VM.VMElements.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/VM.VMElements.html
+END
+LightSensor.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/LightSensor.html
+END
+BasicMotor.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/BasicMotor.html
+END
+LCD.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/LCD.html
+END
+VM.VMMethod.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/VM.VMMethod.html
+END
+VM.VMStackFrame.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/VM.VMStackFrame.html
+END
+SystemSettings.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/SystemSettings.html
+END
+VM.VMExceptions.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/VM.VMExceptions.html
+END
+VM.VMImage.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/VM.VMImage.html
+END
+BasicMotorPort.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/BasicMotorPort.html
+END
+ListenerCaller.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/ListenerCaller.html
+END
+ColorSensor.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/ColorSensor.html
+END
+NXTRegulatedMotor.Controller.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/NXTRegulatedMotor.Controller.html
+END
+Battery.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/Battery.html
+END
+Button.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/Button.html
+END
+TouchSensor.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/TouchSensor.html
+END
+UltrasonicSensor.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/UltrasonicSensor.html
+END
+VM.VMThreads.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/VM.VMThreads.html
+END
+BasicSensorPort.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/BasicSensorPort.html
+END
+VM.VMClasses.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/VM.VMClasses.html
+END
+VM.VMException.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/VM.VMException.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/package-frame.html
+END
+SensorPortListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/SensorPortListener.html
+END
+VM.VMClone.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/VM.VMClone.html
+END
+ColorSensor.Color.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/ColorSensor.Color.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/package-summary.html
+END
+VM.VMClass.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/VM.VMClass.html
+END
+VM.VMFields.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/VM.VMFields.html
+END
+NXTMotor.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/NXTMotor.html
+END
+LCDOutputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/LCDOutputStream.html
+END
+Motor.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/Motor.html
+END
+VM.VMValue.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/VM.VMValue.html
+END
+VM.VMStaticFields.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/VM.VMStaticFields.html
+END
+LegacySensorPort.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/LegacySensorPort.html
+END
+VM.VMItems.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/VM.VMItems.html
+END
+MotorPort.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/MotorPort.html
+END
+SensorConstants.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/SensorConstants.html
+END
+FlashError.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/FlashError.html
+END
+I2CSensor.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/I2CSensor.html
+END
+SensorPort.ColorSensorReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/SensorPort.ColorSensorReader.html
+END
+SensorPort.SensorReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/SensorPort.SensorReader.html
+END
+NXT.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/NXT.html
+END
+NXTEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/projects/classes/doc/lejos/nxt/NXTEvent.html
+END

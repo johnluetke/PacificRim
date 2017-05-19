@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/lib/pc
+END
+jtools.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/lib/pc/jtools.jar
+END
+pccomm.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/lib/pc/pccomm.jar
+END
+pctools.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/techteam/!svn/ver/3/trunk/thirdparty/lejos_nxj/lib/pc/pctools.jar
+END
